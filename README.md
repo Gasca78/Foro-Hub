@@ -52,7 +52,7 @@ Proseguimos a mostrar la lista de usuarios y también una búsqueda dirigida a e
 
 ![Screenshot de la lista de usuarios](https://github.com/Gasca78/Foro-Hub/blob/main/listar_usuarios.png)
 
-![Screenshot del usuario recién agregado](https://github.com/Gasca78/Foro-Hub/blob/main/lista_usuario_id.png)
+![Screenshot del usuario recién agregado](https://github.com/Gasca78/Foro-Hub/blob/main/listar_usuario_id.png)
 
 Eliminamos a este usuario
 
@@ -70,7 +70,7 @@ aquí mostramos la lista de tópicos y el tópico solamente
 
 ![Screenshot de la lista de topicos](https://github.com/Gasca78/Foro-Hub/blob/main/listar_topicos.png)
 
-![Screenshot de la lista de topicos](https://github.com/Gasca78/Foro-Hub/blob/main/lista_topico_sin_respuesta.png)
+![Screenshot de la lista de topicos](https://github.com/Gasca78/Foro-Hub/blob/main/listar_topico_sin_respuesta.png)
 
 Así también, podemos hacer una o más respuestas para ese mismo tópico
 
