@@ -70,7 +70,7 @@ aquí mostramos la lista de tópicos y el tópico solamente
 
 ![Screenshot de la lista de topicos](https://github.com/Gasca78/Foro-Hub/blob/main/listar_topicos.png)
 
-![Screenshot de la lista de topicos](https://github.com/Gasca78/Foro-Hub/blob/main/listar_topico_sin_respuesta.png)
+![Screenshot de la lista de topicos](https://github.com/Gasca78/Foro-Hub/blob/main/listar_topico_id_sin_respuesta.png)
 
 Así también, podemos hacer una o más respuestas para ese mismo tópico
 
