@@ -30,7 +30,7 @@ Primero debemos de iniciar sesión para poder trabajar
 
 ![Screenshot del login](https://github.com/Gasca78/Foro-Hub/blob/main/login_correcto.png)
 
-si algún dato es incorrecto, se te hará saber
+si algún dato es incorrecto, no iniciaras sesión ni obtendras tu token
 
 ![Screenshot del login con error](https://github.com/Gasca78/Foro-Hub/blob/main/login_incorrecto.png)
 
