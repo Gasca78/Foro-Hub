@@ -60,7 +60,7 @@ Eliminamos a este usuario
 
 y podemos ver como es que ya no se encuentra su ID
 
-![Screenshot del usuario recién eliminado](https://github.com/Gasca78/Foro-Hub/blob/main/listar_usuarios_inexistente.png)
+![Screenshot del usuario recién eliminado](https://github.com/Gasca78/Foro-Hub/blob/main/listar_usuario_inexistente.png)
 
 Ahora veamos cómo se agrega un nuevo tópico
 
