@@ -106,7 +106,7 @@ Siendo así los diferentes procesos que se pueden realizar en esta aplicación, 
 
 ![Screenshot de la documentación](https://github.com/Gasca78/Foro-Hub/blob/main/documentacion_3.png)
 
-Llegando así al final de la presentación de estre proyecto. ¡Gracias por leerme!
+Llegando así al final de la presentación de este proyecto. ¡Gracias por leerme!
 
 Agradecimientos:
 
